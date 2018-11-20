@@ -26,6 +26,7 @@
         </activity>
         <activity
             android:name="com.inqbarna.tablefixheaders.samples.FamilyTable"
+            android:theme="@style/AppTheme"
             android:label="@string/family_adapter" >
         </activity>
     </application>
